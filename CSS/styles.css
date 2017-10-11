@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+  font-family: Papyrus;src: url(/fonts/papyrus.ttf);
+}
+
+p {
+  font-family: sans-serif;
+}
+
+
+ul {
+  line-height: 40px;
+}
